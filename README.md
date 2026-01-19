@@ -1,4 +1,6 @@
-# Mico
+<div align="center">
+  <img src="images/mico.png" alt="Mico Logo" width="300">
+</div>
 
 > A lightweight AI coding assistant inspired by [OpenCode](https://github.com/anomalyco/opencode)
 
@@ -260,7 +262,7 @@ Create UserMessage
 │  Call LLM (stream)          │
 │    ↓                        │
 │  Process response:          │
-│    - Text → Add TextPart   │
+│    - Text → Add TextPart    │
 │    - Tool → Execute & update│
 │    ↓                        │
 │  Check termination:         │
