@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/mico.png" alt="Mico Logo" width="300">
+  <img src="images/mico.png" alt="Mico Logo" width="1000">
 </div>
 
 > A lightweight AI coding assistant inspired by [OpenCode](https://github.com/anomalyco/opencode)
